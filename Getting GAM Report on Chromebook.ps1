@@ -13,7 +13,7 @@ $DaysSinceSync=999999
 # That will give you a way to test and break loops if your getting errors.. 
 #Also remmber you can clear the $Error variable with $Error.Clear()
 
-$SSN = 'LI9TFQIN19298354'
+$SSN = 'xxxxxxxxxxxxxx'
 
 ########################################
 # $DeviceID[0]= deviceId
