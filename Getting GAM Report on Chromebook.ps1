@@ -80,9 +80,9 @@ if($DaysSinceSync -gt 30){
 #      minutes: 12
 #  recentUsers
 #    type: USER_TYPE_MANAGED
-#      email: jeramiahfridley-vazquez@riverbank.k12.ca.us
+#      email: user@domain
 #    type: USER_TYPE_MANAGED
-#      email: jessicaacosta@riverbank.k12.ca.us
+#      email: user@domain
 #  cpuStatusReports
 #    reportTime: 2019-11-25T16:02:03.043Z
 #      cpuTemperatureInfo
