@@ -1,6 +1,6 @@
 ﻿############# Get Group Members #########
 
-$Group  = "classroom_teachers@riverbank.k12.ca.us"
+$Group  = "classroom_teachers@domain"
 
 $RawGoogleGroupInfo = gam info group $Group
  
